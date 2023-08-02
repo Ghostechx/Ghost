@@ -1,0 +1,30 @@
+html{
+    font-size: 15px;
+}
+body{
+    background-color: #333 ;
+    color: whitesmoke;
+}
+
+
+a  {
+    color: aliceblue;
+}
+
+a:visited {
+    color: lightgray;
+}
+
+a:hover, a:active {
+    color: #eee;
+}
+
+.title{
+    color: red;
+}
+.subtitle{
+    color: blue;
+}
+#contact-me{
+    color: green;
+}

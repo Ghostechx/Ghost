@@ -1,0 +1,46 @@
+*{
+    margin: o;
+    padding: o;
+}
+
+h1{
+    text-align: center;
+    text-decoration: underline;
+    color: ;
+}
+h2{
+    text-align: center;
+    text-decoration: underline;
+    color: ;
+}
+p{
+    
+    border: 5px solid black; 
+    width: 50%;
+   
+    
+    
+    
+    
+}
+input{
+    padding: 5px;
+    
+}
+#name{
+    width: 50%;
+    padding: 5px;
+    border-radius: 5%;
+    outline: o;
+    border: 1px solid lightgray;
+}
+body{
+    background-color: ;
+}
+
+form{
+    border-collapse: collapse;
+    border: 5px solid black;
+}
+
+
